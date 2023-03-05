@@ -1,0 +1,7 @@
+../Core/Src/sen0386.c:22:7:convertBytes	16	static
+../Core/Src/sen0386.c:26:5:getPacketStart	24	static
+../Core/Src/sen0386.c:35:7:getShort	16	static
+../Core/Src/sen0386.c:39:14:getAccelerations	64	static
+../Core/Src/sen0386.c:54:8:getAngVels	64	static
+../Core/Src/sen0386.c:69:7:getAngles	64	static
+../Core/Src/sen0386.c:84:13:getSensorInput	64	static
